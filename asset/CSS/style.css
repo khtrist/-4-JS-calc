@@ -1,0 +1,49 @@
+.{
+  align-items: center;
+  text-align: center;
+}
+
+section{
+  display: contents;
+  justify-content: center;
+  flex-wrap: wrap;
+
+}
+#inp1{
+  width: 120px;
+  height: 30px;
+  border: 2px solid red;
+}
+
+#inp2{
+  width: 120px;
+  height: 30px;
+  border: 2px solid red;
+}
+select{
+  height: 30px;
+  border: 2px solid olive;
+}
+
+#button{
+  width: 150px;
+  height: 30px;
+  border: 2px solid red;
+  background-color: blue;
+  color: aliceblue;
+  font-weight: bold;
+}
+#inp3{
+  width: 150px;
+  height: 30px;
+  border: 2px solid red;
+  background-color: brown;
+  color: antiquewhite;
+}
+#inp4{
+  width: 150px;
+  height: 30px;
+  border: 2px solid red;
+  background-color: brown;
+  color: antiquewhite;
+}
